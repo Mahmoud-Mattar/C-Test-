@@ -1,6 +1,7 @@
 #include<iostream>
-using namespace std ; 
+using namespace std ;
 int main()
 {
-    cout << 111 <<endl ; 
+    cout << 333 <<endl ;
+    cout << 111 <<endl ;
 }
